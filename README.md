@@ -1,5 +1,6 @@
-# Mastercode-GIT-Hub
-Mastercode
+# Pediatric Cancer - Spatial distribution of Incidence 
+# Detection of Spatial High Risk Clusters 
+
 
 # To run the Simulation Study for the manuscript "Statistical Methods for Spatial Cluster Detection in Childhood Cancer Incidence: a Simulation Study"
 # --> File "Source Code" is needed to run the simulation and get raw data (simulated relative risks and test for clustering)
