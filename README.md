@@ -7,4 +7,4 @@
 # File "Cluster" is needed for the population data to run the simulation
 # GADM Files Germany are needed for the Spatial Polygon Maps
 
-# Simulation as presented here (for test runs) runs in about 1 minute. Resulting files: A) Results from the Cluster detection tests ("xxxxxxRESULTS.xlsx") B)  Raw data from the simulation ("xxxxSIMULATEDDATA.Rdata")
+# Simulation as presented here (for test runs) runs in about 1 minute. Resulting files: A) Results from the Cluster detection tests ("xxxxRESULTS.xlsx") B)  Raw data from the simulation ("xxxxSIMULATEDDATA.Rdata")
